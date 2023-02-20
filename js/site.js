@@ -22,9 +22,7 @@ function getValues() {
     }else{
         alert("You must input number!!!");
     }
-    
-
-    
+       
 }
 //do fizBuzz
 function fizzBuzz(fizzValue, buzzValue){
@@ -49,14 +47,9 @@ function fizzBuzz(fizzValue, buzzValue){
         }else{
             //if none push the number
              returnArray.push(i);
-        }
-
-       
+        }   
     }
-    
     return returnArray;
-
-
 }
 
 function displayData(fbArray){
@@ -86,9 +79,6 @@ function displayData(fbArray){
 
         tableBody.appendChild(tableRow);
     }
-    
-    //loop over Array and create Table
-
 
 
 }
