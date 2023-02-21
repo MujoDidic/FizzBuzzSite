@@ -55,6 +55,20 @@ footer .social>a:hover{
     color: var(--secondary-color);
 }
 
+.Fizz{
+    color: #28B647;
+}
+
+.Buzz{
+    color: #ff993b;
+}
+
+.FizzBuzz{
+    color: blue;
+    font-weight: bold;
+}
+
+
 code[class*="language-"],
         pre[class*="language-"] {
             white-space: pre-wrap;
